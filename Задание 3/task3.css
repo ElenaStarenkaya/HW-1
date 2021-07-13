@@ -1,0 +1,27 @@
+h1, h2 {
+    font-weight: 800;
+    text-align: center;
+}
+
+hr {
+    color: grey;
+    /* height: 5px; */
+}
+
+.dotted {
+    border-bottom: 1px dotted rgb(15, 15, 15);
+}
+
+.style {
+    color: rgb(145, 12, 12);
+    background-color: rgb(207, 207, 214);
+}
+
+.code {
+    background-color: rgb(207, 207, 214);
+    /* white-space: pre; */
+}
+
+.tag {
+    color: rgb(145, 12, 12);
+}

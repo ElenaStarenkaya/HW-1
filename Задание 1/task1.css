@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+    text-align: center;
+    color: rgb(16, 16, 94);
+}
+
+
+
+h3 {
+    color: rgb(158, 154, 173);
+    font-weight: 700;
+}
+
+.text {
+    /* font-style: italic; */
+    font-size: smaller;
+}
+
+pre {
+    text-align: left;
+}

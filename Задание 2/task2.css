@@ -1,0 +1,17 @@
+* {
+    font-weight: 200;
+}
+
+/* p {
+    background-color: rgb(204, 200, 200);
+} */
+
+.black {
+    color: black;
+    background-color: rgb(224, 221, 221);
+}
+
+.red {
+    color: red;
+    background-color: rgb(224, 221, 221);
+}
